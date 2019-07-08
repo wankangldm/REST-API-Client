@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: org.eclipse.persistence.moxy-2.6.0.jar slf4j-simple-1.8.0-
+ beta2.jar jersey-client-2.24.1.jar validation-api-1.1.0.Final.jar jav
+ assist-3.20.0-GA.jar jersey-common-2.24.1.jar osgi-resource-locator-1
+ .0.1.jar jersey-entity-filtering-2.24.1.jar hk2-utils-2.5.0-b05.jar j
+ ersey-media-moxy-2.24.1.jar jersey-guava-2.24.1.jar hk2-api-2.5.0-b05
+ .jar aopalliance-repackaged-2.5.0-b05.jar javax.ws.rs-api-2.0.1.jar j
+ avax.json-1.0.4.jar javax.inject-2.5.0-b05.jar javax.annotation-api-1
+ .2.jar slf4j-api-1.8.0-beta2.jar hk2-locator-2.5.0-b05.jar org.eclips
+ e.persistence.core-2.6.0.jar org.eclipse.persistence.asm-2.6.0.jar
+Main-Class: 
+
